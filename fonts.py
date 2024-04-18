@@ -1,0 +1,11 @@
+import pygame
+pygame.font.init()
+jejuhal70 = pygame.font.Font("fonts/JejuHallasan-Regular.ttf", 70)
+jejuhal30 = pygame.font.Font("fonts/JejuHallasan-Regular.ttf", 30)
+jejuhal20 = pygame.font.Font("fonts/JejuHallasan-Regular.ttf", 20)
+jejuhal40 = pygame.font.Font("fonts/JejuHallasan-Regular.ttf", 40)
+kulim30 = pygame.font.Font("fonts/KulimPark-Light.ttf", 30)
+barlow30 = pygame.font.Font("fonts/Barlow-Regular.ttf", 30)
+barlow40 = pygame.font.Font("fonts/Barlow-Regular.ttf", 40)
+barlow10 = pygame.font.Font("fonts/Barlow-Regular.ttf", 10)
+barlow20 = pygame.font.Font("fonts/Barlow-Regular.ttf", 20)
